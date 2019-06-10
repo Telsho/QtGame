@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>BackGround.png</file>
+        <file>BackGround1.png</file>
+        <file>BackGround2.png</file>
+        <file>bulletJane.png</file>
+        <file>hyena.png</file>
+        <file>pinguin.png</file>
+        <file>croco.png</file>
+        <file>bird.png</file>
+        <file>coin.png</file>
+        <file>bossBullet.png</file>
+        <file>game.mp3</file>
+    </qresource>
+    <qresource prefix="/gif">
+        <file>croco.gif</file>
+        <file>perfectCoin.gif</file>
+        <file>janeJump.gif</file>
+        <file>janeShoot.gif</file>
+        <file>janeDie.gif</file>
+        <file>janeStance.gif</file>
+        <file>pigDie.gif</file>
+        <file>pigShoot.gif</file>
+        <file>pigWalk.gif</file>
+        <file>crocoAttack.gif</file>
+        <file>crocoDeath.gif</file>
+    </qresource>
+</RCC>
