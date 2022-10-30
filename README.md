@@ -9,7 +9,7 @@ A ratio is related to the velocity of the monsters, higher the score is, fasters
 I'll do a little overview of the architecture of the classes, if you want any specification, I invite you to directly check the code, I tried to make it clearer as possible.
 
 
-Latest update - The person who designed the caracters and the background sold them ! Therefore I'm not authorized to use them anymore. 
+## Latest update - The person who designed the caracters and the background sold them ! Therefore I'm not authorized to use them anymore. 
 
 
 ## Classes
